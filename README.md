@@ -25,8 +25,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/bp4924/qr-code-component)
+- Live Site URL: [Demo](https://bp4924.github.io/qr-code-component/)
 
 ## My process
 
@@ -43,6 +43,6 @@ Once I had that, I constructed the HTML then finished by fleshing out the CSS in
 
 ## Author
 
-- Website - [Bernie Petters](https://www.your-site.com)
+- Website - [Bernie Petters](https://github.com/bp4924/qr-code-component)
 - Frontend Mentor - [@bp4924](https://www.frontendmentor.io/profile/bp4924)
-- LinkedIn - [Bernie Petters](<https://(https://www.linkedin.com/in/bernie-petters)>)
+- LinkedIn - [Bernie Petters](https://www.linkedin.com/in/bernie-petters)
